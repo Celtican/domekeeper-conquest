@@ -1,0 +1,21 @@
+{
+  "name": "Conquest",
+  "namespace": "Celtican",
+  "version_number": "1.0.0",
+  "description": "Adds a longer-term campaign mode. Explore and Conquer!",
+  "website_url": "https://",
+  "dependencies": [],
+  "extra": {
+	"godot": {
+	  "authors": ["Celtican"],
+	  "compatible_game_version": ["4.2.0"],
+	  "compatible_mod_loader_version": ["7.0.0"],
+	  "description_rich": "",
+	  "image": null,
+	  "incompatibilities": [],
+	  "load_before": [],
+	  "optional_dependencies": [],
+	  "tags": []
+	}
+  }
+}
